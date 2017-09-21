@@ -5,7 +5,9 @@ Agata Wrońska is a Warsaw based phototgrapher. She needed a simple, yet interes
 
 I built the site using [GRAV flat file CMS](https://getgrav.org/).
 
-See it here: [CLICK](http://agatawronska.com). 
+See it here: [CLICK](http://agatawronska.com).
+
+Designed by Kaja Kusztra.
 
 
 
